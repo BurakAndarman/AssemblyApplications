@@ -8,7 +8,7 @@ This program simply copies a ten byte sized array to a fifty byte sized array in
 
 2️⃣ - divisibleTo5
 
-It finds the numbers that can be divisible by five and saves their squares in data segment which starts at 1200h address (numbers are between zero and a hundred).
+It finds the numbers that can be divisible by five and saves their squares in data segment which starts at 1200h address value (numbers are between zero and a hundred).
 
 3️⃣ - findPrimeness
 
