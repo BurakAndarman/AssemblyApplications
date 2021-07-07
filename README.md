@@ -12,7 +12,7 @@ It finds the numbers that can be divisible by five and saves their squares in da
 
 3️⃣ - findPrimeness
 
-It checks the primeness of number placed in ax register.If it is prime 05 value will be in bx register,if not 07 value will appear in that register.
+It checks the primeness of a number placed in ax register.If it is prime, 05 value will be in bx register,if not 07 value will appear in that register.
 
 4️⃣ - masking
 
